@@ -4,3 +4,4 @@ ou em uma expressão na qual ela é usada, logo, pode ser modificada a qualquer 
 
 Const -> Variável constante, não pode mudar o tipo da variável.
 
+
