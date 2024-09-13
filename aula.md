@@ -25,3 +25,6 @@ function CriarMeta() {}
 
 ## instalador de pacotes do node
 npm -> node packed manager
+
+## Funções assíncronas 
+(assync/await) -> esperar
