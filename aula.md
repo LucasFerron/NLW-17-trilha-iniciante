@@ -22,3 +22,6 @@ const CriarMeta = () => {}
 
 ## function
 function CriarMeta() {}
+
+## instalador de pacotes do node
+npm -> node packed manager
