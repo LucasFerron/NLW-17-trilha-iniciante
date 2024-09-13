@@ -1,19 +1,17 @@
-// arrays
-let metas = ["Lucas", "olá"]
-
-console.log(metas[1] + " " + metas[0]);
-
-// objetos
-
-let metasOBJ = {
-    value: 'ler um livro por mês',
-    checked: false
+function comecar(){
+    let count = 0
+    while (true){
+        let opc = 'cadastrar'
+        switch(opc){
+            case 'cadastrar':
+                console.log('Vamos cadastrar')
+                break
+            case 'listar':
+                console.log('Vamos listar')
+                break
+            case 'sair':
+                return
+        }
+    }
 }
-console.log(metasOBJ.value)
-
-// Arrow function
-//const CriarMeta = () => {}
-
-
-//function
-//function CriarMeta() {}
+comecar()
