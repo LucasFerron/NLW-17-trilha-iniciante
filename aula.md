@@ -27,4 +27,5 @@ function CriarMeta() {}
 npm -> node packed manager
 
 ## Funções assíncronas 
-(assync/await) -> esperar
+async -> precisa ter o async para usar o await, a sincronia se estabiliza aqui até a promessa do await for exectuada para continuar o código
+await -> esperar até uma determinada resposta
