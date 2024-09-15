@@ -29,3 +29,7 @@ npm -> node packed manager
 ## Funções assíncronas 
 async -> precisa ter o async para usar o await, a sincronia se estabiliza aqui até a promessa do await for exectuada para continuar o código
 await -> esperar até uma determinada resposta
+
+## Operadores
+
+- spread/rest operator: ... (3 pontinhos) -> pega um array antigo e joga informações especificas.
