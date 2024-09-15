@@ -33,3 +33,7 @@ await -> esperar até uma determinada resposta
 ## Operadores
 
 - spread/rest operator: ... (3 pontinhos) -> pega um array antigo e joga informações especificas.
+
+## Arrays
+
+Métodos de array: push [find, forEach, filter, map] : HOF (Higher Order Functions)
