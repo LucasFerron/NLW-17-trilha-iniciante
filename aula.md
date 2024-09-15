@@ -37,3 +37,8 @@ await -> esperar até uma determinada resposta
 ## Arrays
 
 Métodos de array: push [find, forEach, filter, map] : HOF (Higher Order Functions)
+
+## JSON
+ Javascript Object Notation (.json)
+ JSON.parse() -> Transforma de JSON para JavaScript
+ JSON.stringify() -> Transforma de JavaScript para JSON
